@@ -1,0 +1,6 @@
+{
+  "name": "Connectly - Full-Stack Social Media Platform",
+  "description": "Production-ready social media web application with user profiles, posts, comments, likes, and follow system powered by Node.js, Express, and MongoDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
